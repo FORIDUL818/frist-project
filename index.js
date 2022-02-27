@@ -1,0 +1,1 @@
+document.getElementById("Foridul").innerHTML="this is a Foridul Islam"
